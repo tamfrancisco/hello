@@ -7,7 +7,7 @@
       * [2.Estructura del proyecto](mouredev/1.reflex/1.curso-de-python-para-web-desde-cero/2.estructura-del-proyecto.md)
       * [3.Primeros Pasos](mouredev/1.reflex/1.curso-de-python-para-web-desde-cero/3.primeros-pasos.md)
       * [4.Hola mundo](mouredev/1.reflex/1.curso-de-python-para-web-desde-cero/4.hola-mundo.md)
-      * [5.Componentes](mouredev/1.reflex/1.curso-de-python-para-web-desde-cero/5.componentes.md)
+      * [5.Maquetacion de la web](mouredev/1.reflex/1.curso-de-python-para-web-desde-cero/5.maquetacion-de-la-web.md)
 * [🐔 Net2Dev](net2dev/README.md)
   * [1.Nft Collection\_ipfs\_react](net2dev/1\_nft\_colletcion\_ipfs\_react/README.md)
     * [Crear Front](net2dev/1\_nft\_colletcion\_ipfs\_react/crear-front.md)
