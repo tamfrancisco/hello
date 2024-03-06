@@ -19,4 +19,4 @@
   * [solidity](codecrypto/solidity/README.md)
     * [1.Bases](codecrypto/solidity/1.bases.md)
     * [2.Propiedades transacciones](codecrypto/solidity/2.propiedades-transacciones.md)
-* [3.Tipo de variables y operadores](3.tipo-de-variables-y-operadores.md)
+    * [3.Tipo de variables y operadores](codecrypto/solidity/3.tipo-de-variables-y-operadores.md)
